@@ -1,0 +1,43 @@
+# mystr = "shohjaxon"
+# myit = iter(mystr)
+# print(next(myit)) # s
+# print(next(myit)) # h
+# print(next(myit)) # o
+# print(next(myit)) # h
+# print(next(myit)) # j
+# print(next(myit)) # a
+# print(next(myit)) # x
+# print(next(myit)) # o
+# print(next(myit)) # n 
+
+username=input("USERNAME: ")
+password=input("PASSWORD: ")
+email=input("EMAIL: ")
+_username="Shohjaxon"
+_password="1234567"
+_email="shohjaxonofficial0110@gmail.com"
+# parol="shohjaxonofficial0110@gmail.com"
+
+if "@" in email:
+    print("Email to'g'ri")
+    if "5" in password:
+        print("Parol to'g'ri")
+        if "j" in username:
+            print("Username to'g'ri")
+            print("Hush kelibsiz admin")
+            
+
+
+# import random
+
+# print(random.randint(1,1000))
+
+
+
+
+
+
+
+
+
+
